@@ -23,8 +23,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 Gave tutorial in SIGIR 2025 in Padova/Italy! 
+- *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024 as spotlight!
+- *2024.05*: &nbsp;🎉🎉 Two papers accepted to ACL 2024 (Findings)!
+- *2023.05*: &nbsp;🎉🎉 One paper accepted to ACL 2023 (Findings)!
 
 # 📝 Publications 
 
