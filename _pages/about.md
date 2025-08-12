@@ -56,6 +56,6 @@ My research interest includes retrieval augmented generation (RAG) and long docu
 - *2025.07 - now*, Research Intern, Shanghai AI Labratory, China.
 - *2021.11 - 2023.07* Project Officer, S-Lab, NTU, Singapore
 
-- # 📚 Academic Services
+# 📚 Academic Services
 - *Conference Reviewer*: NeurIPS 2025, ACL ARR (ACL 2024, EMNLP 2024, NAACL 2024, ACL 2025, EMNLP 2025)
 - *Journal Reviewer*: TOIS
