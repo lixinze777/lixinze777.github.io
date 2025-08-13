@@ -28,21 +28,17 @@ My research interest includes retrieval augmented generation (RAG) and long docu
 - *2024.05*: &nbsp;🎉🎉 Two papers accepted to ACL 2024 (Findings)!
 - *2023.05*: &nbsp;🎉🎉 One paper accepted to ACL 2023 (Findings)!
 
-# 📝 Publications 
+# 📒 Preprint
+- [Long Context vs. RAG for LLMs: An Evaluation and Revisits](https://arxiv.org/abs/2501.01880), **Xinze Li**, Yixin Cao, Yubo Ma, Aixin Sun. 2024.
+- [Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks](https://arxiv.org/abs/2504.18838), Yixin Cao, Shibo Hong, **Xinze Li**, Jiahao Ying, Yubo Ma, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, Dan Huang, Wenxuan Zhang, Lifu Huang, Muhao Chen, Lei Hou, Qianru Sun, Xingjun Ma, Zuxuan Wu, Min-Yen Kan, David Lo, Qi Zhang, Heng Ji, Jing Jiang, Juanzi Li, Aixin Sun, Xuanjing Huang, Tat-Seng Chua, Yu-Gang Jiang. 2025.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Publications
+- [Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution](https://aclanthology.org/2024.findings-acl.28/), **Xinze Li**, Yixin Cao, Liangming Pan, Yubo Ma, Aixin Sun. **ACL 2024 (Findings)**
+- [Take a Break in the Middle: Investigating Subgoals towards Hierarchical Script Generation](https://aclanthology.org/2023.findings-acl.644/), **Xinze Li**, Yixin Cao, Liangming Pan, Yubo Ma, Aixin Sun. **ACL 2023 (Findings)**
+- [MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations](https://arxiv.org/abs/2407.01523), Yubo Ma, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, **Xinze Li**, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun. **NeurIPS 2024 spotlight (dataset track)**
+- [Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges](https://aclanthology.org/2024.findings-acl.97/), Bosheng Ding, Chengwei Qin, Ruochen Zhao, Tianze Luo, **Xinze Li**, Guizhen Chen, Wenhan Xia, Junjie Hu, Anh Tuan Luu, Shafiq Joty. **ACL 2024 (Findings)**
+- [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, **Xinze Li**, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao. **ACL 2022 (Demo Track)**
 
 
 # 📖 Educations
