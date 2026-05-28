@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinze Li"
-description              : "Ph.D Student researching on RAG and LLM"
+description              : "Ph.D Student researching on Long Context, RAG, and Agent Memory"
 repository               : "lixinze777/lixinze777.github.io"
 google_scholar_stats_use_cdn : true
 
