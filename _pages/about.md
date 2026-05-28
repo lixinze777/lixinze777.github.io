@@ -30,8 +30,8 @@ My research interest includes long context, retrieval augmented generation (RAG)
 
 # 📒 Preprint
 - [Skill-as-Pseudocode: Refactoring Skill Libraries to Pseudocode for LLM Agents](https://arxiv.org/abs/2605.27955), **Xinze Li**, Yuhang Zang, Yixin Cao, Aixin Sun. 2026.
-- [EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents](https://arxiv.org/abs/2601.16690), **Xinze Li**, Zihao Zhu, Shuo Liu, Yubo Ma, Yuhang Zang, Yixin Cao, Aixin Sun. 2026.
-- [What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding](https://arxiv.org/abs/2601.09503), Shuo Liu, Hao Yuan, **Xinze Li**, Zihao Zhu, Yixin Cao, Yu-Gang Jiang. 2026.
+- [EMemBench: Interactive Benchmarking of Episodic Memory for VLM Agents](https://arxiv.org/abs/2601.16690), **Xinze Li**, Zihao Zhu, Siyuan Liu, Yubo Ma, Yuhang Zang, Yixin Cao, Aixin Sun. 2026.
+- [What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding](https://arxiv.org/abs/2601.09503), Siyuan Liu, Hongbang Yuan, **Xinze Li**, Zihao Zhu, Yixin Cao, Yu-Gang Jiang. 2026.
 - [Long Context vs. RAG for LLMs: An Evaluation and Revisits](https://arxiv.org/abs/2501.01880), **Xinze Li**, Yixin Cao, Yubo Ma, Aixin Sun. 2024.
 - [Toward Generalizable Evaluation in the LLM Era: A Survey Beyond Benchmarks](https://arxiv.org/abs/2504.18838), Yixin Cao, Shibo Hong, **Xinze Li**, Jiahao Ying, Yubo Ma, Haiyuan Liang, Yantao Liu, Zijun Yao, Xiaozhi Wang, Dan Huang, Wenxuan Zhang, Lifu Huang, Muhao Chen, Lei Hou, Qianru Sun, Xingjun Ma, Zuxuan Wu, Min-Yen Kan, David Lo, Qi Zhang, Heng Ji, Jing Jiang, Juanzi Li, Aixin Sun, Xuanjing Huang, Tat-Seng Chua, Yu-Gang Jiang. 2025.
 
