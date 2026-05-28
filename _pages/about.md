@@ -23,9 +23,6 @@ My research interest includes long context, retrieval augmented generation (RAG)
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Released [Skill-as-Pseudocode](https://arxiv.org/abs/2605.27955) on arXiv — refactoring skill libraries to pseudocode for LLM agents!
-- *2026.01*: &nbsp;🎉🎉 Released [EMemBench](https://arxiv.org/abs/2601.16690) on arXiv — an interactive benchmark for episodic memory of VLM agents!
-- *2026.01*: &nbsp;🎉🎉 Released [Task2Quiz](https://arxiv.org/abs/2601.09503) on arXiv — a paradigm for studying environment understanding of LLM agents!
 - *2025.07*: &nbsp;🎉🎉 Gave tutorial in SIGIR 2025 in Padova/Italy!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024 as spotlight!
 - *2024.05*: &nbsp;🎉🎉 Two papers accepted to ACL 2024 (Findings)!
