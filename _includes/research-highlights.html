@@ -1,0 +1,19 @@
+<div class="research-highlights">
+  {% for project in site.data.research %}
+  <article class="research-highlight" aria-labelledby="research-{{ forloop.index }}">
+    <div class="research-highlight__meta">
+      <span class="research-topic">{{ project.topic }}</span>
+      <span class="venue-tag">{{ project.venue }}</span>
+    </div>
+    <h2 id="research-{{ forloop.index }}"><a href="{{ project.paper }}">{{ project.title }}</a></h2>
+    <p class="research-highlight__subtitle">{{ project.subtitle }}</p>
+    <p>{{ project.description }}</p>
+    <p class="research-highlight__finding"><strong>Key finding.</strong> {{ project.finding }}</p>
+    <div class="research-highlight__links" aria-label="Resources for {{ project.title }}">
+      <a href="{{ project.paper }}">Paper <span aria-hidden="true">↗</span></a>
+      <a href="{{ project.code }}">Code <span aria-hidden="true">↗</span></a>
+      {% if project.tutorial %}<a href="{{ project.tutorial }}">SIGIR Tutorial <span aria-hidden="true">↗</span></a>{% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>

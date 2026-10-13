@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinze Li"
-description              : "Ph.D Student researching on Long Context, RAG, and Agent Memory"
+description              : "Ph.D. student researching LLM/VLM agents, memory, and RAG"
 url                      : "https://lixinze777.github.io"
 baseurl                  : ""
 repository               : "lixinze777/lixinze777.github.io"
@@ -30,7 +30,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XdNw0cwAAAAJ"
-  email            : "xinze002@ntu.edu.sg"
+  email            : "xinze002@e.ntu.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
