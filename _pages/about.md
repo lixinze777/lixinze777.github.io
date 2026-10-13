@@ -45,6 +45,12 @@ My research interest includes long context, retrieval augmented generation (RAG)
 - [MMEKG: Multi-modal Event Knowledge Graph towards Universal Representation across Modalities](https://aclanthology.org/2022.acl-demo.23/), Yubo Ma, Zehao Wang, Mukai Li, Yixin Cao, Meiqi Chen, **Xinze Li**, Wenqi Sun, Kunquan Deng, Kun Wang, Aixin Sun, Jing Shao. **ACL 2022 (Demo Track)**
 
 
+# 🏆 Honors and Awards
+- *2023 - 2027*, **NTU Research Scholarship (Full Scholarship)**, Nanyang Technological University.
+- *2017 - 2021*, **NUS Science & Technology Undergraduate Scholarship (Full Scholarship)**, National University of Singapore.
+- *2012 - 2016*, **Singapore Government SM1 Full Scholarship**.
+
+
 # 📖 Educations
 - *2023.08 - now*, Ph.D. student, College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). **Full Scholarship**.
 - *2017.08 - 2021.06*, Bachelor of Computing, School of Computing (SoC), National University of Singapore (NUS). **Full Scholarship**.
