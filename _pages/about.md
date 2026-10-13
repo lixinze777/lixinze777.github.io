@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). Before that, I received my Bachelor of Computing Degree (with Honours) from National University of Singapore (NUS) in 2021, and worked as a project officer in S-lab, NTU until 2023.
+I am a fourth-year Ph.D. student in College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU). I am co-advised by Prof. [Aixin Sun](https://personal.ntu.edu.sg/axsun/) and Prof. [Yixin Cao](https://sites.google.com/view/yixin-homepage). Before that, I received my Bachelor of Computing Degree (with Honours) from National University of Singapore (NUS) in 2021, and worked as a project officer in S-lab, NTU until 2023.
 
 My research interest includes long context, retrieval augmented generation (RAG), and agent memory. I have published papers at top international conferences ACL, EMNLP, and NeurIPS, with total <a href='https://scholar.google.com/citations?user=XdNw0cwAAAAJ'>Google Scholar citations <strong><span id='total_cit'>800+</span></strong></a>.
 
@@ -46,8 +46,8 @@ My research interest includes long context, retrieval augmented generation (RAG)
 
 
 # 📖 Educations
-- *2023.08 - now*, Ph.D student, College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). 
-- *2017.08 - 2021.06*, Bachelor of Computing, School of Computing (SoC), National University of Singapore (NUS) 
+- *2023.08 - now*, Ph.D. student, College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). **Full Scholarship**.
+- *2017.08 - 2021.06*, Bachelor of Computing, School of Computing (SoC), National University of Singapore (NUS). **Full Scholarship**.
 
 # 💬 Invited Talks
 - *2025.07*, Tutorial [\[Long Context vs. RAG: Strategies for Processing Long Documents in LLMs\]](https://sites.google.com/view/sigir25-lc-vs-rag/) gave in SIGIR 2025, in Padova Italy. 
