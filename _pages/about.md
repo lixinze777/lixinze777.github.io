@@ -72,7 +72,7 @@ My research focuses on how LLM/VLM agents use experience and external knowledge:
 - *2017.08 - 2021.06*, Bachelor of Computing with Honours (Distinction), School of Computing (SoC), National University of Singapore (NUS).
 
 # 💬 Invited Talks
-- *2025.07*, Organizer and lead speaker, [Long Context vs. RAG: Strategies for Processing Long Documents in LLMs](https://sites.google.com/view/sigir25-lc-vs-rag/), SIGIR 2025, Padova, Italy. Covered long-context methods, RAG pipelines, evaluation, and deployment trade-offs.
+- *2025.07*, Organizer and lead speaker, [Long Context vs. RAG: Strategies for Processing Long Documents in LLMs](https://sites.google.com/view/sigir25-lc-vs-rag/), <span class="venue-tag venue-tag--spotlight">SIGIR 2025 · Tutorial</span>, Padova, Italy. Covered long-context methods, RAG pipelines, evaluation, and deployment trade-offs.
 
 <span class="anchor" id="-internships"></span>
 
